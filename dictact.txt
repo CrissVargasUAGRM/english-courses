@@ -1,0 +1,11 @@
+1.- English
+2.- Number
+3.- plays
+4.- Country
+5.- Language
+6.- Animal
+
+
+
+Actually -> en realidad
+Sensible -> sensato
