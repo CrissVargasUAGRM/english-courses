@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-233.14015.106">
+    <data-source name="citizix_db@localhost" uuid="c8062d5c-52ac-44b5-a24a-f721e71f4f5b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
+      <user-name>citizix_user</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
