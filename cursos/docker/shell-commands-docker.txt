@@ -1,0 +1,5 @@
+docker container run -it {container-name} bash -> levanta un contenedor con la iteracion de la terminal.
+docker container exec -it {container-name} bash -> interactua con la shell en un contenedor ya existente.
+
+En alpine no existe shell por que es muy pequeño existe:
+docker container exec -it alpine sh

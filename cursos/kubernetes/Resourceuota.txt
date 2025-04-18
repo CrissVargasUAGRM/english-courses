@@ -1,0 +1,7 @@
+RESOURCE QUOTA:
+Nos sirve para limitar los recursos que limitaremos al namespace, tambien nos sirve para limitar el numero de pods que podemos crear.
+
+HEALTH CHECK AND PROBES:
+    * readinessProbe
+    * livenessProbe
+
